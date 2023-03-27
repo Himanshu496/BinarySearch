@@ -61,7 +61,8 @@ class Solution {
 }
 
 
-//Time Complexity : O(log N)
+//Time Complexity : O(log N) in worst case It can go to O(N) if all element is equal
+
 //Space Complexity : O(1)
 
 https://leetcode.com/problems/find-peak-element/
